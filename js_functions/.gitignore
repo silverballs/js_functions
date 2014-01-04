@@ -1,0 +1,8 @@
+
+*.swp
+*~
+.project
+.DS_Store
+
+add_todo.txt
+

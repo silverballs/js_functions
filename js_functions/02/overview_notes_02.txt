@@ -14,4 +14,3 @@
 07 Returning values
 
 08 Challenge: Social media navigation
-s

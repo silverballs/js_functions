@@ -1,0 +1,16 @@
+
+01 Using functions as objects
+	
+02 Invoking instances through the constructor
+
+03 Expanding functinality through prototype
+
+04 Expanding functionality through protype
+
+05 Understanding call-andapply invocation
+
+06 Using the arguments parameter
+
+07 Returning values
+
+08 Challenge: Social media navigation

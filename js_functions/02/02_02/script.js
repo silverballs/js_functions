@@ -1,1 +1,1 @@
-window.prompt("testing")
+// window.prompt("testing")

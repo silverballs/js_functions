@@ -5,12 +5,11 @@
 
 03 Expanding functinality through prototype
 
-04 Expanding functionality through protype
+04 Understanding call-andapply invocation
 
-05 Understanding call-andapply invocation
+05 Using the arguments parameter
 
-06 Using the arguments parameter
+06 Returning values
 
-07 Returning values
+07 Challenge: Social media navigation
 
-08 Challenge: Social media navigation

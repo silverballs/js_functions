@@ -70,3 +70,9 @@
 // >> function (saywhat){ console.log(saywhat); }
 // But, if we click on function, we will see that that is based on the Object constructor as well 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> 9e31c0009d87433718b847a247415e34923ba6a2

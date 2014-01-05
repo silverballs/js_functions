@@ -13,9 +13,9 @@
 // We can also store the value of an object like the above full_name = me to a function instead...
 
 
-
+// this has to properties, one with status, and the other plus which has a function
 var calc = {
-	status: 'Awesome',
+	status: 'Awesome', 
 	plus: function(a,b){
 		return(
 			console.log(this), // this points to the entire object var calc = {....}
